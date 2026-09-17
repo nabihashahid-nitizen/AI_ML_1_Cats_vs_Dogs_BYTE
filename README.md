@@ -1,4 +1,5 @@
-# AI_ML_1_Cats_vs_Dogs_BYTE# Cats vs Dogs Image Classification
+# AI_ML_1_Cats_vs_Dogs_BYTE
+# Cats vs Dogs Image Classification
 
 ## Objective
 Build a deep learning image classification model that can distinguish between cats and dogs.
