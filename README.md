@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is part of the **B.Y.T.E. AVIP 2026 AI/ML Internship**.
-
-The objective of this task is to build a deep learning image classification model that can automatically distinguish between **cats and dogs** from images.
+The objective of this project is to build a deep learning image classification model that can automatically distinguish between **cats and dogs** from images.
 
 A Convolutional Neural Network (CNN) was developed using **TensorFlow/Keras** and trained on the Microsoft Cats and Dogs dataset.
 
